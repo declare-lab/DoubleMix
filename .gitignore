@@ -1,0 +1,16 @@
+.unused/*
+dataset/snli/train.json
+dataset/multinli/train.json
+dataset/multinli/multinli_1.0_train.jsonl
+dataset/snli/snli_1.0_train.jsonl
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
+*.sh
+logs/
+dataset/imdb/imdb_eda.json
+dataset/multinli/multinli_sr.json
+dataset/snli/snli_sr.json
+dataset/multinli/multinli_eda.json
+dataset/snli/snli_eda.json
+model_logs/
