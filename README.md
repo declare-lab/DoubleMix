@@ -20,6 +20,18 @@ cd src/
 CUDA_VISIBLE_DEVICES=0 python3 train.py --dataset [dataset] --aug 1
 ```
 
+## Citation
+Please cite our paper if you find our work useful for your research:
+```bibtex
+@inproceedings{chen2022doublemix,
+  title={DoubleMix: Simple Interpolation-Based Data Augmentation for Text Classification},
+  author={Chen, Hui and Han, Wei and Yang, Diyi and Poria, Soujanya},
+  booktitle={Proceedings of the 29th International Conference on Computational Linguistics},
+  pages={4622--4632},
+  year={2022}
+}
+```
+
 ## Contact
-Should you have any question, feel free to contact the author through [chchenhui1996@gmail.com](chchenhui1996@gmail.com).
+Should you have any questions, feel free to contact [chchenhui1996@gmail.com](chchenhui1996@gmail.com).
 
